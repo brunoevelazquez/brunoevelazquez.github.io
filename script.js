@@ -41,8 +41,8 @@ let correo = document.getElementById("correo");
 correo.addEventListener("click", abrirCorreo);
 function abrirCorreo() {
   correo = window.open(
-    "https://github.com/brunoevelazquez",
-    "github.com",
+    "https://outlook.live.com/mail/0/inbox",
+    "https://outlook.live.com/",
     configuracion_ventana
   );
 }
