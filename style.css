@@ -1,0 +1,50 @@
+
+
+
+
+
+.parra {
+  font-family: "Great Vibes", cursive;
+  margin: 0px;
+  font-size: 12mm;
+  color: rgb(35, 35, 150);
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif, Courier, monospace, cursive;
+  font-size: 3rem;
+  color: rgb(201, 200, 200);
+  padding: 3px;
+}
+
+#ubicacion {
+  font-size: 10mm;
+}
+
+.parrafo {
+  font-size: 2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(56, 32, 32);
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.amarillo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.azul {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+}
+
+.ultimo{
+  padding-top: 30px;
+  padding-bottom: 30px;
+ 
+}
